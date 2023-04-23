@@ -110,7 +110,7 @@ BasedOnStyle: Google
 #BreakStringLiterals: false
 
 # 每行字符的限制，0表示没有限制
-# ColumnLimit: 160
+ColumnLimit: 160
 
 #CompactNamespaces: true
 
@@ -209,7 +209,7 @@ IndentWidth: 4
 #Standard: Cpp11
 
 # tab宽度
-# TabWidth: 4
+TabWidth: 4
 
 # 使用tab字符: Never, ForIndentation, ForContinuationAndIndentation, Always
 # UseTab: Never
